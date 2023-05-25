@@ -22,12 +22,6 @@
  * SOFTWARE.
  * 
 */
-
-#include <vector>
-#include <iostream>
-#include <string>
-#include <cmath>
-
 #include "numibara.hpp"
 
 int main(void){
